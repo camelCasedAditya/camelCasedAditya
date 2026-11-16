@@ -1,25 +1,25 @@
 # Hi, I'm Aditya 👋
 
-Computer science student at the **University of Washington**. I build full-stack AI applications, and I like projects that touch real hardware: phones, GPUs, robots.
+Computer science student at the **University of Washington** (graduating 2029). I build AI agent systems, data infrastructure, and full-stack apps.
 
-- 🤖 Communications team at **Husky Robotics** (STM32 firmware)
-- 🏆 Hackathons: DubHacks, PennApps
+- 💼 3× Software Engineering Intern at **Fiveonefour Labs**, working on the [Moose](https://github.com/514-labs/moosestack) data framework and agentic coding research
+- 🏆 1st Place, HackUP · Cerebras Track Winner, PennApps XXVI · DubHacks '26
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aditya-chandrashekaran)
 
 ## Featured projects
 
 | Project | What it is | Built with |
 |---------|-----------|------------|
-| [**RadAR**](https://github.com/camelCasedAditya/RadAR) | Live 3D maps for first responders. iPhones stream camera and ARKit pose to a GPU server that builds a shared 3D map in real time. *DubHacks 2026* | Swift, ARKit, Python, AWS EC2 (GPU), WebSockets |
-| [**Housify**](https://github.com/camelCasedAditya/Housify) | Describe a house in plain English and get an editable, versioned floor plan. Chat to revise it. | React, TypeScript, Django, Celery, Claude API |
+| [**RadAR**](https://github.com/camelCasedAditya/RadAR) · *DubHacks '26* | Live 3D maps for first responders. Fuses video and LiDAR from several iPhones into one shared map, with teammate positions on a command hub. Fine-tuned depth model runs at 52 ms/frame on an L40S. | Python, Swift, ARKit, LiDAR, AWS |
+| [**Sandbox EDU**](https://github.com/camelCasedAditya/PennApps) · *Cerebras Track Winner, PennApps XXVI* | Generates 20+ hours of interactive programming courses in under 90 seconds using parallel AI agents, with a browser IDE in isolated Docker environments. | Python, Django, Docker, Cerebras |
+| [**YourChessBuddy**](https://github.com/camelCasedAditya/chesscoachable) · [live](https://chesscoachable.vercel.app) | Chess center management platform for tracking student progress, curriculum and scheduling. Used by 3+ chess centers and 200+ coaches and students. | Python, Django, JavaScript, PostgreSQL |
 | [**ASO Genome Explorer**](https://github.com/camelCasedAditya/gene-doctor) | Takes a genome file, finds disease-linked variants and designs candidate antisense oligonucleotide (ASO) therapies. | Python, TypeScript, minimap2, bcftools, Nucleotide Transformer |
-| [**VoyagerAI**](https://github.com/camelCasedAditya/VoyagerAI) · [demo](https://voyager-ai-gilt.vercel.app) | AI travel planner: a team of agents researches flights, hotels and things to do for your trip. | Python, Django, Celery, Redis |
-| [**CourseAI**](https://github.com/camelCasedAditya/PennApps) | Turns a learning goal into a full course with lessons, quizzes, coding projects in a browser IDE, and an AI tutor. *PennApps 2025* | Django, Cerebras, Pinecone, Docker |
-| [**ChessCoachable**](https://github.com/camelCasedAditya/chesscoachable) · [live](https://chesscoachable.vercel.app) | Chess homework platform: coaches assign puzzles, students solve them and track their progress. | Django, PostgreSQL, JavaScript |
+| [**VoyagerAI**](https://github.com/camelCasedAditya/VoyagerAI) · [demo](https://voyager-ai-gilt.vercel.app) | AI travel planner: a team of agents researches flights, hotels and things to do for your trip. | Python, Django, Celery, Redis, LangGraph |
 
 More: [C++ data structures from scratch](https://github.com/camelCasedAditya/cpp-data-structures) (red-black tree, hash table, Dijkstra, and more)
 
 ## Tech
 
-**Languages:** Python · TypeScript/JavaScript · C++ · C · Swift · Java
-**Frameworks:** Django · React · Celery
-**Infra & tools:** AWS · Docker · Redis · PostgreSQL · Git
+**Languages:** Python · Rust · Java · C++ · SQL · Swift · HTML/CSS
+**Frameworks:** Django · React · PyTorch · LangGraph
+**Infra:** AWS · Docker · Kafka · ClickHouse · Redis · Celery · PostgreSQL · CI/CD
