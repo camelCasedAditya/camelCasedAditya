@@ -2,7 +2,7 @@
 
 Computer science student at the **University of Washington** (graduating 2029). I build AI agent systems, data infrastructure, and full-stack apps.
 
-- 💼 3× Software Engineering Intern at **Fiveonefour Labs**, working on the [Moose](https://github.com/514-labs/moosestack) data framework and agentic coding research
+- 💼 Previously interned at **Fiveonefour Labs** as a Software Engineering Intern for three summers (2024–2026), working on the [Moose](https://github.com/514-labs/moosestack) data framework and agentic coding research
 - 🏆 1st Place, HackUP · Cerebras Track Winner, PennApps XXVI · DubHacks '26
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aditya-chandrashekaran)
 
